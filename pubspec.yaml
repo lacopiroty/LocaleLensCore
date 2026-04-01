@@ -1,0 +1,21 @@
+name: locale_lens_core
+description: Shared core for translation catalog validation, export, scanning, and localization tooling workflows.
+version: 0.1.0
+homepage: https://github.com/lacopiroty/LocaleLensCore
+repository: https://github.com/lacopiroty/LocaleLensCore
+issue_tracker: https://github.com/lacopiroty/LocaleLensCore/issues
+topics:
+  - localization
+  - translations
+  - i18n
+  - l10n
+
+environment:
+  sdk: ^3.11.4
+
+dependencies:
+  http: ^1.6.0
+  path: ^1.9.1
+
+dev_dependencies:
+  lints: ^6.0.0
